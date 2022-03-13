@@ -24,7 +24,7 @@ có thể chọn số tab muốn mở và đặt giới hạn thời gian xem ch
 - tải file `chromedriver` trên cửa hàng của chrome 
 - cài đặt python 
 - Cho tất cả link video muốn cày view vào trong thư mục `list_url_video.txt`  
-- mở cmd di chuyển vào trong thư mục `Tools-cay-view-YTB`
+- mở cmd di chuyển vào trong thư mục `Tools View YTB`
 - nhập lệnh 
 ```
 pip install selenium
