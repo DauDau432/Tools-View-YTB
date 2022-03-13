@@ -11,7 +11,9 @@
 ### Yêu cầu
 `Python`
 
-`chromedriver`chọn phiên bản phù hợp với máy 
+`chromedriver` chọn phiên bản phù hợp với máy 
+
+Chỉ hỗ trợ trên windows
 
 ### Cách hoạt động 
 Tools tự động mở tab và chạy tất cả các link được đặt trong file `list_url_video.txt`
