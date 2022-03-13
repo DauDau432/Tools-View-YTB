@@ -43,7 +43,5 @@ python view.py
 [Xem video demo tại đây]()
 
 <p align="center">
-  <img src="https://github.com/DauDau432/Tools-View-YTB/blob/main/img/Ch%C6%B0a%20c%C3%B3%20t%C3%AAn.png">
+  <img src="https://github.com/DauDau432/Tools-View-YTB/blob/main/img/img.png">
 </p>
-
-
