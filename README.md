@@ -34,6 +34,7 @@ pip install selenium
 python view.py
 ```
 - Sau khi khởi động nhập key để login
+ 
 Để lấy key xin liên hệ với tác giả [Tại đây](https://zalo.me/0387640248)
 
 ### Hình ảnh
