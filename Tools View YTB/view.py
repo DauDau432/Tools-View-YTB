@@ -27,7 +27,7 @@ def background():
     ║ Copy nhớ ghi nguồn                                      ║
     ║ Zalo: 0387640248                            Editor: Lợi ║
     ╚═════════════════════════════════════════════════════════╝         
-    ===============⟩⟩⟩⟩⟩⟩⟩ Tools View YTB ⟨⟨⟨⟨⟨⟨===============\n\n   """
+    >>>>>>>>>>>>>>>>>>>>>> Tools View YTB <<<<<<<<<<<<<<<<<<<<<\n\n   """
 
     for haha in hehe:
         sys.stdout.write(haha)
