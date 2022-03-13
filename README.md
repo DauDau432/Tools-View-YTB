@@ -3,7 +3,7 @@
 
 Sau khi tải xuống nhập key để login
 
-### Giới thiệu
+### Thành phần 
 `list_url_video.txt` danh sách link video muốn mở 
 
 `luong_xem.txt` tổng số lần hoàn thành (được tính sau khi đóng 1 tab)
@@ -12,6 +12,7 @@ Sau khi tải xuống nhập key để login
 
 ### Yêu cầu
 `Python`
+
 `chromedriver`
 
 ### Cách hoạt động 
