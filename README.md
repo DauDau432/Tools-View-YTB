@@ -22,7 +22,7 @@ Có thể chọn số tab muốn mở và đặt giới hạn thời gian xem ch
 
 ### Cách sử dụng
 - Tải file `chromedriver` trên cửa hàng của chrome 
-- Cài đặt python 
+- Cài đặt python ([tải xuống tại đây](https://www.python.org/))
 - Cho tất cả link video muốn cày view vào trong thư mục `list_url_video.txt`  
 - Mở cmd di chuyển vào trong thư mục `Tools View YTB`
 - Nhập lệnh 
