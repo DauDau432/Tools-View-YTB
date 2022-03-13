@@ -13,7 +13,7 @@
 
 `chromedriver` chọn phiên bản phù hợp với máy 
 
-Chỉ hỗ trợ trên windows
+Chỉ hỗ trợ trên `windows` `kali linux` `mac`
 
 ### Cách hoạt động 
 Tools tự động mở tab và chạy tất cả các link được đặt trong file `list_url_video.txt`
