@@ -43,7 +43,7 @@ def key_dung():
 logo="    -----------------------------------------------------------"
 background()
 key=input(" Nhập key: ")
-if key=="Lu TV":
+if key=="Lu TV" or "daukute":
     print(logo)
     key_dung()
     time.sleep(3)
