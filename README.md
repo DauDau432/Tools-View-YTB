@@ -38,7 +38,7 @@ python view.py
 Để lấy key xin liên hệ với tác giả [Tại đây](https://zalo.me/0387640248)
 - Chọn số tab để mở video (tùy vào cấu hình của máy chọn cho phù hợp tránh lag máy)
 - Chọn thời gian xem cho mỗi vdeo (không nên để ít quá khuyến nghị để 30s)
-- 
+
 ### Hình ảnh
 [Xem video demo tại đây]()
 
@@ -47,5 +47,3 @@ python view.py
 </p>
 
 
-### Đóng góp
-Lú (Trần Xuân Lợi)
