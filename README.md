@@ -39,9 +39,5 @@ python main.py
 - Chọn số tab để mở video (tùy vào cấu hình của máy chọn cho phù hợp tránh lag máy)
 - Chọn thời gian xem cho mỗi vdeo (không nên để ít quá khuyến nghị để 30s)
 
-### Hình ảnh
 [Xem video demo tại đây](https://youtu.be/M1r0GDnNAq8)
 
-<p align="center">
-  <img src="https://github.com/DauDau432/Tools-View-YTB/blob/main/img/img.png">
-</p>
