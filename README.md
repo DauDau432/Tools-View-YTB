@@ -31,7 +31,7 @@ pip install selenium
 ```
 - khởi động chương trình 
 ```
-python view.py
+python main.py
 ```
 - Sau khi khởi động nhập key để login
  
