@@ -6,7 +6,7 @@
 
 `luong_xem.txt` tổng số lần hoàn thành (được tính sau khi đóng 1 tab)
 
-`view.py` chương trình khởi động
+`main.py` chương trình khởi động
 
 ### Yêu cầu
 `Python`
